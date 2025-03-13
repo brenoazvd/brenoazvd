@@ -1,16 +1,62 @@
-## Hi there 👋
+# Welcome, i'm Breno!
 
-<!--
-**brenoazvd/brenoazvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :computer: Machine Learning Student
 
-Here are some ideas to get you started:
+:house_with_garden: I'm from São Paulo - SP, Brazil.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-46.750, -23.570],
+            [-46.750, -23.710],
+            [-46.610, -23.710],
+            [-46.610, -23.570],
+            [-46.750, -23.570]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+:books: I'm currently studying Machine Learning at FIAP (Pós Tech).
+🎓 I have a degree in Data Science.
+
+:dart: Goal for 2025: Specialize in Machine Learning and grow even more in this field!
+
+## 📊 Languages and Tools
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BRENOAZVD&theme=github_dark&show_icons=true" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENOAZVD&layout=donut&theme=github_dark" width="420" height="200" />
+</div>
+
+---
+
+### 🛠️ Technologies I use
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  
+</div>
+
+ ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brenoazvd)](https://github.com/brenoazvd)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-rodrigues-azevedo-9109b8232/)](https://www.linkedin.com/in/breno-rodrigues-azevedo-9109b8232/)         
