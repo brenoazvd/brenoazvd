@@ -4,30 +4,6 @@
 
 :house_with_garden: I'm from São Paulo - SP, Brazil.  
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-46.750, -23.570],
-            [-46.750, -23.710],
-            [-46.610, -23.710],
-            [-46.610, -23.570],
-            [-46.750, -23.570]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
 :books: I'm currently studying Machine Learning at FIAP (Pós Tech).
 🎓 I have a degree in Data Science.
 
