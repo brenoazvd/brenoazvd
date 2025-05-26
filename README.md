@@ -4,10 +4,10 @@
 
 :house_with_garden: I'm from São Paulo - SP, Brazil.  
 
-:books: I'm currently studying Machine Learning at FIAP (Pós Tech).
+:books: I'm currently studying Data Analytics at FIAP (Pós Tech).
 🎓 I have a degree in Data Science.
 
-:dart: Goal for 2025: Specialize in Machine Learning and grow even more in this field!
+:dart: Goal for 2025: Specialize in Data Analytics and grow even more in this field!
 
 ## 📊 Languages and Tools
 
