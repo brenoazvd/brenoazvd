@@ -1,6 +1,6 @@
 # Welcome, i'm Breno!
 
-# :computer: Machine Learning Student
+# :computer: Data Analytics Student
 
 :house_with_garden: I'm from São Paulo - SP, Brazil.  
 
