@@ -35,4 +35,4 @@
 
  ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brenoazvd)](https://github.com/brenoazvd)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-rodrigues-azevedo-9109b8232/)](https://www.linkedin.com/in/breno-rodrigues-azevedo-9109b8232/)         
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brenoazvd)](https://github.com/brenoazvd)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-azevedo-9109b8232/)](https://www.linkedin.com/in/breno-azevedo-9109b8232/)         
